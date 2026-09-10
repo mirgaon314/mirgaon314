@@ -8,6 +8,7 @@ I build things at the edge of games, computer vision, and neuroscience.
 - Research Assistant, Nutrition, Health & Neuroscience Lab (UIUC): YOLO/OpenCV pipeline that classifies pig–object interactions from behavioral video.
 
 **Pinned below**
+- `trade-builder` — weighted-indicator trading model + walk-forward backtest; beats the RSI rule, loses to buy & hold on SPY, and says so
 - `ANSC_pig` — the lab pipeline (detection + interaction classifier)
 - `Sudoku` — puzzle generator plus two solvers, human-logic vs. neural nets
 - `eeg-state-classifier` — per-channel GMM classifier for 4 motor actions from 8-ch EEG, my part of NeuroTech's [Universum](https://github.com/UniversumX/Universum) project
