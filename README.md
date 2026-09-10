@@ -10,6 +10,7 @@ I build things at the edge of games, computer vision, and neuroscience.
 **Pinned below**
 - `ANSC_pig` — the lab pipeline (detection + interaction classifier)
 - `Sudoku` — puzzle generator plus two solvers, human-logic vs. neural nets
+- [UniversumX/Universum](https://github.com/UniversumX/Universum) — NeuroTech RSO: EEG data collection + GMM state classifier (my part: model development / real-time LSL)
 
 **Stack** Python · PyTorch · OpenCV · C# · Unity · Netcode for GameObjects · scikit-learn
 
