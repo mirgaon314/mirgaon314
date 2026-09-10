@@ -10,7 +10,7 @@ I build things at the edge of games, computer vision, and neuroscience.
 **Pinned below**
 - `ANSC_pig` — the lab pipeline (detection + interaction classifier)
 - `Sudoku` — puzzle generator plus two solvers, human-logic vs. neural nets
-- [UniversumX/Universum](https://github.com/UniversumX/Universum) — NeuroTech RSO: EEG data collection + GMM state classifier (my part: the GMM/SVC EEG state classifier in ModelDevelopment)
+- `eeg-state-classifier` — per-channel GMM classifier for 4 motor actions from 8-ch EEG, my part of NeuroTech's [Universum](https://github.com/UniversumX/Universum) project
 
 **Stack** Python · PyTorch · OpenCV · C# · Unity · Netcode for GameObjects · scikit-learn
 
